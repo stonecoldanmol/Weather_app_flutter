@@ -1,2 +1,2 @@
-# Starter project for the weather app
-Clone it to your computer and you can start to develop the weather app!
+# weather app
+Basic weather app that shows dynamic weather of famous citys.
