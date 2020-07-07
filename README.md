@@ -1,6 +1,7 @@
-# Flutter Weather App Starter Kit
+# Flutter Weather App 
 
-Here you can find the starter project for the weather app. In this folder you will find an almost empty Flutter project. It contains an images folder, where you can find the images necessary for the project.
+
+This the a short application based on flutter for showing the dynamic weather report of famous city's.
 
 
 * [You can download the app icon folder here](https://drive.google.com/uc?export=download&id=1W8mcFP5NOi8nQmcE2JrA8-9P8R9s3Oua)
